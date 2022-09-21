@@ -1,0 +1,12 @@
+Conceptos
+
+ * Variables: Se usan para guardad datos que se usarlas luego en el codigo, pueden ser de muchos tipos como numeros o palabras.
+ * Strings: Es un palabra clave del lenguaje que representa un tipo de dato para cadena de caracteres.
+ * Funciones (argumentos, `return`): Son trozos de codigo separados que hacen una deteterminada tarea, 
+                                      pueden recibir o no valores de entrada, llamados argumentos, y retornan siempre un valor,
+                                      por lo general ese valor se debuelve con la palabra clave return, esta palabra clave corta el hilo de ejecucucion de la funcion.
+                                      Se usa principalmente para ser llamadas luego desde el codigo principal y ayuda a prevenir la repeticion de codigo.
+ * Declaraciones `if`: Es una sentencia que evalua una condicion para que el hilo de ejecucion realice una u otra accion, depeniendo
+                       de su resultado.
+ * Valores booleanos (`true`, `false`): Son otras palabras claves del lenguaje que se usan para representar si algo es verdadero o falso.
+                                        Som utiles es las resolucion de condiciones y el retorno de funciones, entre otras.
